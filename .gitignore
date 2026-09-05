@@ -1,0 +1,16 @@
+# Compiled Java class files
+*.class
+bin/
+out/
+target/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+*.classpath
+*.project
+
+# OS generated files
+.DS_Store
+Thumbs.db
